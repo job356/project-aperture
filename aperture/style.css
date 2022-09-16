@@ -2,6 +2,10 @@ body {
     margin: 0px;
 }
 
+::-webkit-scrollbar {
+    width: 0px;
+}
+
 .header {
     width: 100%;
     height: 90px;
@@ -59,4 +63,10 @@ body {
 
     color: #000000;
     border: none;
+}
+
+.description-block {
+    width: 100%;
+    height: 716px;
+    background-image: url(/assets/IMG/bg-block1.png);
 }
