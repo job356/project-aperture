@@ -125,8 +125,14 @@ body {
     color: #C0C0C0;
 }
 
-.test {
+.description-label {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+
     position: absolute;
-    left: 1105px;
-    top: 654px;
+    width: 295px;
+    height: 16px;
+    left: 77%;
+    top: 91.3%;
 }
