@@ -292,3 +292,7 @@ body {
     border-radius: 40%;
     border: none;
 }
+
+.lens-btn:hover {
+    background-color: #ffffff;
+}
