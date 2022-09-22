@@ -302,3 +302,48 @@ body {
     height: 600px;
     background-image: url(/assets/IMG/mountain-img.png);
 }
+
+.mountain-head {
+    width: 206px;
+    height: 20px;
+    padding-top: 260px;
+    padding-left: 75%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #ffffff;
+}
+
+.mountain-text {
+    width: 298px;
+    height: 60px;
+    padding-left: 75%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #C0C0C0;
+}
+
+.description-label-2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 16px;
+
+    position: absolute;
+    width: 257px;
+    height: 16px;
+    padding-left: 79.4%;
+    padding-top: 204px;
+}
