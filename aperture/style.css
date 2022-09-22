@@ -511,3 +511,53 @@ body {
     padding-top: 80px;
     padding-left: 12.64%;
 }
+
+.star-fall {
+    width: 100%;
+    height: 600px;
+    background-image: url(/assets/IMG/star\ fall.png);
+}
+
+.star-head {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+
+    width: 254px;
+    height: 20px;
+    padding-left: 75%;
+    padding-top: 250px;
+
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #ffffff;
+}
+
+.star-text {
+    width: 241px;
+    height: 80px;
+    padding-left: 75%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #C0C0C0;
+}
+
+.description-label-5 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 16px;
+
+    width: 319px;
+    height: 16px;
+    padding-left: 79.8%;
+    padding-top: 194px;
+}
