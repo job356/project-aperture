@@ -311,7 +311,7 @@ body {
 
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 14px;
     line-height: 20px;
 
@@ -328,7 +328,7 @@ body {
 
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 14px;
     line-height: 20px;
 
@@ -341,7 +341,6 @@ body {
     align-items: flex-start;
     gap: 16px;
 
-    position: absolute;
     width: 257px;
     height: 16px;
     padding-left: 79.4%;
@@ -362,8 +361,90 @@ body {
     background-color: #000000;
 }
 
+.gear-head {
+    padding-left: 13.9%;
+    padding-top: 173px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #C0C0C0;
+}
+
+.tools-use {
+    padding-left: 13.9%;
+    padding-top: 6px;
+    margin: 0px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 32px;
+
+    color: #ffffff;
+}
+
+.gear-text{
+    padding-left: 13.9%;
+    padding-right: 14.72%;
+    padding-top: 14px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #ffffff;
+}
+
+.check-out {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+
+    width: 152px;
+    height: 42px;
+    background: #ffffff;
+    border-radius: 14px;
+    border: none;
+    padding: 0px;
+    margin-left: 13.9%;
+    margin-top: 29px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    letter-spacing: 0.4px;
+
+    color: #000000;
+}
+
 .content-2 {
     width: 50%;
     height: 540px;
     background-image: url(/assets/IMG/gear-cage-bg.png);
+}
+
+.description-label-3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 16px;
+
+    width: 281px;
+    height: 16px;
+    padding-left: 55.5%;
+    padding-top: 484px;
 }
