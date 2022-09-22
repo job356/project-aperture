@@ -296,3 +296,9 @@ body {
 .lens-btn:hover {
     background-color: #ffffff;
 }
+
+.mountain-img {
+    width: 100%;
+    height: 600px;
+    background-image: url(/assets/IMG/mountain-img.png);
+}
