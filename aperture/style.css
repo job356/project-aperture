@@ -178,36 +178,35 @@ body {
     flex-wrap: wrap;
     gap: 16px;
 
-    width: 83.3%;
+    width: 1200px;
     padding-top: 40px;
-    padding-left: 8.3%;
-    padding-right: 8.3%;
+    padding-left: 6.08%;
 }
 
 .product-bg {
     position: relative;
-    width: 48%;
+    width: 576px;
     height: 600px;
     background-image: url(/assets/IMG/product-photography.png);
 }
 
 .archietecture-bg {
     position: relative;
-    width: 48%;
+    width: 576px;
     height: 600px;
     background-image: url(/assets/IMG/archietecture-photography.png);
 }
 
 .drone-bg {
     position: relative;
-    width: 48%;
+    width: 576px;
     height: 600px;
     background-image: url(/assets/IMG/drone-photography.png);
 }
 
 .wildlife-bg {
     position: relative;
-    width: 48%;
+    width: 576px;
     height: 600px;
     background-image: url(/assets/IMG/wildlife-photography.png);
 }
@@ -293,8 +292,8 @@ body {
     border: none;
 }
 
-.lens-btn:hover {
-    background-color: #ffffff;
+.lens-btn-icon {
+    visibility: hidden;
 }
 
 .mountain-img {
